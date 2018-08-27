@@ -1,2 +1,2 @@
 # GradientViewDemo
-Gradient Background View、Gradient TextView
+Gradient Background View、Gradient TextView、Gradient Line
