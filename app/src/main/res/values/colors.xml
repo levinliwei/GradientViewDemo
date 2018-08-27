@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="color_text_gradient_start">#56B4D9</color>
+    <color name="color_text_gradient_end">#5268F6</color>
+
+    <color name="color_gery_line">#454D54</color>
+    <color name="color_transparent">#00000000</color>
+    <color name="color_transparent_bg">#b3000000</color>
+    <color name="color_tablenumber">#58CBC8</color>
+
+    <color name="rainbow_red">#FF0000</color>
+    <color name="rainbow_orange">#FF7F00</color>
+    <color name="rainbow_yellow">#FFFF00</color>
+    <color name="rainbow_green">#00FF00</color>
+    <color name="rainbow_blue">#0000FF</color>
+    <color name="rainbow_indigo">#4B0082</color>
+    <color name="rainbow_violet">#8B00FF</color>
+</resources>

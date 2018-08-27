@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="rainbow">
+        <item>@color/color_text_gradient_start</item>
+        <item>@color/color_text_gradient_start</item>
+        <item>@color/color_text_gradient_start</item>
+        <item>@color/colorAccent</item>
+        <item>@color/colorAccent</item>
+        <item>@color/colorAccent</item>
+    </array>
+</resources>
